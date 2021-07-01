@@ -1,0 +1,1 @@
+export default (text: string) => void console.log(text)
